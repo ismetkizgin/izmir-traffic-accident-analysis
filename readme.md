@@ -5,7 +5,7 @@ This project is developed for analyzing traffic accidents in İzmir. The dataset
 ## 📊 Dataset
 
 - **Source**: İzmir Municipality Traffic Data
-- **Date Range**: 2021-2022
+- **Date Range**: 2021-2025
 - **Total Records**: 13,339 accident records
 - **Data Format**: CSV (semicolon separated)
 
